@@ -5,18 +5,18 @@
   "publisher": "sldobri",
   "version": "1.0.1",
   "license": "Apache-2.0",
-  "icon": "logo.png",
+  "icon": "./logo.png",
   "galleryBanner": {
     "color": "#0b1015",
     "theme": "dark"
   },
-  "homepage": "https://github.com/sldobri/daily/blob/master/README.md",
+  "homepage": "https://github.com/dobbbri/dark-mode-darcula/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sldobri/daily.git"
+    "url": "https://github.com/dobbbri/dark-mode-darcula.git"
   },
   "bugs": {
-    "url": "https://github.com/sldobri/daily/issues"
+    "url": "https://github.com/dobbbri/dark-mode-darcula/issues"
   },
   "engines": {
     "vscode": "^1.15.0"
