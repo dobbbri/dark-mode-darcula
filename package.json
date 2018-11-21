@@ -1,0 +1,21 @@
+{
+    "name": "dark-mode-darcula",
+    "displayName": "Dark Mode Darcula",
+    "description": "Dacula Theme for Mac OS in Dark Mode",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darcula in Mac OS Dark Mode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darcula in Mac OS Dark Mode-color-theme.json"
+            }
+        ]
+    }
+}
