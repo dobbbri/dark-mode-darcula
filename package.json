@@ -5,7 +5,7 @@
   "publisher": "sldobri",
   "version": "1.0.2",
   "license": "Apache-2.0",
-  "icon": "./logo.png",
+  "icon": "logo.png",
   "galleryBanner": {
     "color": "#0b1015",
     "theme": "dark"
@@ -21,7 +21,9 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
