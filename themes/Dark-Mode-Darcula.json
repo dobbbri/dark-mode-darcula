@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Darcula in Mac OS Dark Mode",
+  "name": "Dark-Mode-Darcula",
   "type": "dark",
   "colors": {
     "focusBorder": "#ffc600",

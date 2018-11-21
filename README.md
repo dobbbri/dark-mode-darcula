@@ -1,4 +1,4 @@
-# Styrokai <img align="left" width="100" height="100" src="/media/darcula.png">
-A vivid, bolded, pitch-black Monokai color scheme
+# Dark-Mode-Darcula <img align="left" width="100" height="100" src="/media/darcula.png">
+Dacula Theme for Mac OS in Dark
 
-![Styrokai Theme](/.media/Styrokai-vscode_img.jpg)
+![Dark-Mode-Darcula Theme](/media/darcula.jpg)
