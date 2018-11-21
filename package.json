@@ -1,21 +1,39 @@
 {
-    "name": "dark-mode-darcula",
-    "displayName": "Dark Mode Darcula",
-    "description": "Dacula Theme for Mac OS in Dark Mode",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.29.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Darcula in Mac OS Dark Mode",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Darcula in Mac OS Dark Mode-color-theme.json"
-            }
-        ]
-    }
+  "name": "dark-mode-darcula",
+  "displayName": "Dark Mode Darcula",
+  "description": "Dacula Theme for Mac OS in Dark Mode",
+  "publisher": "sldobri",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#0b1015",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/sldobri/daily/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sldobri/daily.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sldobri/daily/issues"
+  },
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula in Mac OS Dark Mode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Mode-Darcula.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "33474ff6-baf7-461f-8275-a44cfd27d13a",
+    "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
+    "publisherDisplayName": "Sergio Luiz Dobri"
+  }
 }
