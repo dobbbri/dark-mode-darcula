@@ -1,3 +1,6 @@
+### Version 1.0.4
+- add new theme
+
 ### Version 1.0.3
 - fix
 - fix
