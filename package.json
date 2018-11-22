@@ -30,6 +30,11 @@
         "label": "Darcula in Mac OS Dark Mode",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Mode-Darcula.json"
+      },
+      {
+        "label": "Darcula in Mac OS Dark Mode - old",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Mode-Darcula-old.json"
       }
     ]
   },
