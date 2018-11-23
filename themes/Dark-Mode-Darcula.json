@@ -49,16 +49,16 @@
     // WTF is this one for? I don't know
     "editor.findRangeHighlightBackground": "#2b2c2e",
     // When you hover over something and a popup shows, this highlights that thing
-    "editor.hoverHighlightBackground": "#616264",
+    "editor.hoverHighlightBackground": "#2b2c2e",
     // when you have something selected, but have lost focus on the editor
     "editor.inactiveSelectionBackground": "#1d1e20",
     // current line styles
-    "editor.lineHighlightBackground": "#616264",
-    "editor.lineHighlightBorder": "#616264",
+    "editor.lineHighlightBackground": "#2b2c2e",
+    "editor.lineHighlightBorder": "#1d1e20",
     "editor.rangeHighlightBackground": "#616264",
     // selected Text colours
     // This is the standard Select colour
-    "editor.selectionBackground": "#616264",
+    "editor.selectionBackground": "#2b2c2e",
     // This is the colour of the other matching elements
     "editor.selectionHighlightBackground": "#61626480",
     // if you tab away you can colour it differently, but ill leave this one out
@@ -68,17 +68,15 @@
     "editor.wordHighlightStrongBackground": "#FFFFFF0D",
     // and this one is the rest of them
     "editor.wordHighlightBackground": "#FFFFFF0D",
-    "editorBracketMatch.background": "#616264",
-    "editorBracketMatch.border": "#2b2c2e",
+    "editorBracketMatch.background": "#2b2c2e",
+    "editorBracketMatch.border": "#616264",
     "editorCodeLens.foreground": "#aaa",
     "editorCursor.foreground": "#ffc600",
-    "editorError.border": "#141414",
-    "editorError.foreground": "#A22929",
     // gutter
     "editorGutter.background": "#1d1e2066",
-    "editorGutter.addedBackground": "#3C9F4A",
-    "editorGutter.deletedBackground": "#A22929",
-    "editorGutter.modifiedBackground": "#26506D",
+    "editorGutter.addedBackground": "#3ad900",
+    "editorGutter.deletedBackground": "#ff628c",
+    "editorGutter.modifiedBackground": "#ffc600",
     // editorGroup
     "editorGroup.border": "#141414",
     "editorGroup.dropBackground": "#1d1e2099",
