@@ -1,3 +1,6 @@
+### Version 1.0.5
+- fix selection color
+
 ### Version 1.0.4
 - add new theme
 
