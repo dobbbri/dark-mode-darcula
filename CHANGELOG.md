@@ -1,3 +1,6 @@
+### Version 1.0.6
+- fix colors
+
 ### Version 1.0.5
 - fix selection color
 
