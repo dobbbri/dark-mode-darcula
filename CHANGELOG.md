@@ -1,3 +1,6 @@
+### Version 1.0.9
+- fix ident line active color
+
 ### Version 1.0.8
 - add active ident guide
 
