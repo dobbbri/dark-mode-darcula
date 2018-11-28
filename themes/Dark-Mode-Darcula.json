@@ -33,8 +33,8 @@
     "diffEditor.removedTextBackground": "#ee3a4311",
     "diffEditor.removedTextBorder": "#ee3a4355",
     // dropdown
-    "dropdown.background": "#1d1e20",
-    "dropdown.border": "#25262b",
+    "dropdown.background": "#2b2c2e",
+    "dropdown.border": "#616264",
     "dropdown.foreground": "#fff",
     // editor
     // This is the main background color
@@ -88,7 +88,7 @@
     "editorHoverWidget.background": "#25262b",
     "editorHoverWidget.border": "#141414",
     "editorIndentGuide.background": "#2b2c2e",
-    "editorIndentGuide.activeBackground": "#546E7A",
+    "editorIndentGuide.activeBackground": "#616264",
     "editorLineNumber.foreground": "#616264",
     "editorLink.activeForeground": "#aaa",
     // editorMarkerNavigation
@@ -169,12 +169,12 @@
     // "notification.warningForeground": "#000",
     // panel
     "panel.background": "#1d1e20",
-    "panel.border": "#141414",
+    "panel.border": "#616264",
     "panelTitle.activeBorder": "#616264",
     "panelTitle.activeForeground": "#fff",
     "panelTitle.inactiveForeground": "#aaa",
     // "peekView
-    "peekView.border": "#141414",
+    "peekView.border": "#616264",
     "peekViewEditor.background": "#1d1e20",
     "peekViewEditor.matchHighlightBackground": "#1d1e2000",
     "peekViewEditorGutter.background": "#1d1e20",
