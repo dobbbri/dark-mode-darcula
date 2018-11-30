@@ -1,3 +1,7 @@
+### Version 1.0.10
+- add real colors
+- fix title
+
 ### Version 1.0.9
 - fix ident line active color
 
