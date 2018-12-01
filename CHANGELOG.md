@@ -1,3 +1,6 @@
+### Version 1.0.12
+- add new image
+
 ### Version 1.0.11
 - add darcula original colors
 
