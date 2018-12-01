@@ -1,3 +1,6 @@
+### Version 1.0.11
+- add darcula original colors
+
 ### Version 1.0.10
 - add real colors
 - fix title
