@@ -1,3 +1,6 @@
+### Version 1.0.16
+- add readme table
+
 ### Version 1.0.15
 - fix readme titles
 
