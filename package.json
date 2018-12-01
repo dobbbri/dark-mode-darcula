@@ -27,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darcula in Mac OS Dark Mode",
+        "label": "Darcula - Dark Mode",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Mode-Darcula.json"
       },
