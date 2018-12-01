@@ -6,7 +6,7 @@
     "focusBorder": "#525658",
     // activityBar
     "activityBar.background": "#3C3F41",
-    "activityBar.border": "#141414",
+    "activityBar.border": "#555555",
     "activityBar.dropBackground": "#3C3F41",
     "activityBar.foreground": "#fff",
     "activityBarBadge.background": "#525658",
@@ -20,7 +20,7 @@
     "button.hoverBackground": "#525658",
     // contrast
     "contrastActiveBorder": null,
-    "contrastBorder": "#212121",
+    "contrastBorder": "#525658",
     // debug
     "debugExceptionWidget.background": "#2B2B2B",
     "debugExceptionWidget.border": "#aaa",
@@ -78,15 +78,15 @@
     "editorGutter.deletedBackground": "#f35956",
     "editorGutter.modifiedBackground": "#f9b042",
     // editorGroup
-    "editorGroup.border": "#141414",
+    "editorGroup.border": "#555555",
     "editorGroup.dropBackground": "#2B2B2B99",
     // editorGroupHeader
     "editorGroupHeader.noTabsBackground": "#313335",
     "editorGroupHeader.tabsBackground": "#313335",
-    "editorGroupHeader.tabsBorder": "#141414",
+    "editorGroupHeader.tabsBorder": "#555555",
     // editorHoverWidget
     "editorHoverWidget.background": "#3C3F41",
-    "editorHoverWidget.border": "#141414",
+    "editorHoverWidget.border": "#555555",
     "editorIndentGuide.background": "#313335",
     "editorIndentGuide.activeBackground": "#525658",
     "editorLineNumber.foreground": "#525658",
@@ -96,7 +96,7 @@
     "editorMarkerNavigationError.background": "#A22929",
     "editorMarkerNavigationWarning.background": "#f9b042",
     // ruler
-    "editorOverviewRuler.border": "#141414",
+    "editorOverviewRuler.border": "#555555",
     "editorOverviewRuler.commonContentForeground": "#f9b04255",
     "editorOverviewRuler.currentContentForeground": "#ee3a4355",
     "editorOverviewRuler.incomingContentForeground": "#67dd6f55",
@@ -116,7 +116,7 @@
     "editorInfo.foreground": "#439afd",
     "editorWhitespace.foreground": "#ffffff1a",
     "editorWidget.background": "#3C3F41",
-    "editorWidget.border": "#141414",
+    "editorWidget.border": "#555555",
     "errorForeground": "#A22929",
     // extensionButton
     "extensionButton.prominentBackground": "#525658",
@@ -126,7 +126,7 @@
     "foreground": "#aaa",
     // input
     "input.background": "#2B2B2B",
-    "input.border": "#141414",
+    "input.border": "#555555",
     "input.foreground": "#fff",
     "input.placeholderForeground": "#aaa",
     "inputOption.activeBorder": "#525658",
@@ -188,7 +188,7 @@
     "peekViewTitleDescription.foreground": "#aaa",
     "peekViewTitleLabel.foreground": "#fff",
     // picker
-    "pickerGroup.border": "#141414",
+    "pickerGroup.border": "#555555",
     "pickerGroup.foreground": "#aaa",
     // progressBar
     "progressBar.background": "#fff",
@@ -201,14 +201,14 @@
     "selection.background": "#525658",
     // sidebar
     "sideBar.background": "#313335",
-    "sideBar.border": "#141414",
+    "sideBar.border": "#555555",
     "sideBar.foreground": "#aaa",
     "sideBarSectionHeader.background": "#3C3F41",
     "sideBarSectionHeader.foreground": "#fff",
     "sideBarTitle.foreground": "#aaaaaa",
     // statusBar
     "statusBar.background": "#3C3F41",
-    "statusBar.border": "#141414",
+    "statusBar.border": "#555555",
     "statusBar.debuggingBackground": "#3C3F41",
     "statusBar.debuggingForeground": "#525658",
     "statusBar.foreground": "#aaa",
@@ -257,13 +257,13 @@
     "gitDecoration.conflictingResourceForeground": "#FF7200",
     // textBlockQuote
     "textBlockQuote.background": "#2B2B2B",
-    "textBlockQuote.border": "#141414",
+    "textBlockQuote.border": "#555555",
     "textCodeBlock.background": "#2B2B2B",
     "textLink.activeForeground": "#439afd",
     "textLink.foreground": "#439afd",
     "textPreformat.foreground": "#f9b042",
     "textSeparator.foreground": "#525658",
-    "titleBar.border": "#141414",
+    "titleBar.border": "#555555",
     "titleBar.activeBackground": "#3C3F41",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#2B2B2B",
@@ -271,7 +271,7 @@
     "walkThrough.embeddedEditorBackground": "#525658",
     "welcomePage.buttonBackground": "#2B2B2B",
     "welcomePage.buttonHoverBackground": "#525658",
-    "widget.shadow": "#00000026"
+    "widget.shadow": "#00000000"
   },
   "tokenColors": [
     {
