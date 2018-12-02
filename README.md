@@ -2,6 +2,8 @@
 
 ### Two beautiful variations of the same theme
 
+##.
+
 ###### Darcula - Dark Mode (real macOS dark mode colors)
 
 ![Dark-Mode-Darcula Theme](https://raw.githubusercontent.com/dobbbri/dark-mode-darcula/master/darcula.jpg)
