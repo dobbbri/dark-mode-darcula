@@ -1,3 +1,6 @@
+### Version 1.0.18
+- update image
+
 ### Version 1.0.17
 - add subtitle
 
