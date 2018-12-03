@@ -2,7 +2,7 @@
 
 ### Two beautiful variations of the same theme
 
-##.
+## .
 
 ###### Darcula - Dark Mode (real macOS dark mode colors)
 
@@ -11,3 +11,11 @@
 ###### Darcula - Original (original colors)
 
 ![Original-Darcula Theme](https://raw.githubusercontent.com/dobbbri/dark-mode-darcula/master/darcula-original.jpg)
+
+###### Gruvbox - Dark Mode (real macOS dark mode colors)
+
+![Dark-Mode-Gruvbox Theme](https://raw.githubusercontent.com/dobbbri/dark-mode-darcula/master/gruvbox.jpg)
+
+###### Gruvbox - Original (original colors)
+
+![Original-Gruvbox Theme](https://raw.githubusercontent.com/dobbbri/dark-mode-darcula/master/gruvbox-original.jpg)

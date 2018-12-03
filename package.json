@@ -1,7 +1,7 @@
 {
   "name": "dark-mode-darcula",
-  "displayName": "Dark Mode Darcula",
-  "description": "Dacula Theme for Mac OS in Dark Mode",
+  "displayName": "Dark Mode for Darcula / Gruvbox",
+  "description": "Themes for mac OS in Dark Mode",
   "publisher": "sldobri",
   "version": "1.0.19",
   "license": "Apache-2.0",
@@ -35,11 +35,21 @@
         "label": "Darcula - Original",
         "uiTheme": "vs-dark",
         "path": "./themes/Original-Darcula.json"
+      },
+      {
+        "label": "Gruvbox - Dark Mode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Mode-Gruvbox.json"
+      },
+      {
+        "label": "Gruvbox - Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Original-Gruvbox.json"
       }
     ]
   },
   "__metadata": {
-    "id": "33474ff6-baf7-461f-8275-a44cfd27d13a",
+    "id": "f349aeeb-43f5-4f7f-988b-5b4464c6fd5b",
     "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
     "publisherDisplayName": "Sergio Luiz Dobri"
   }
