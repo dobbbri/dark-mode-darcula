@@ -1,3 +1,6 @@
+### Version 1.0.20
+- add gruvbox theme
+
 ### Version 1.0.19
 - fix images
 
