@@ -1,3 +1,7 @@
+### Version 1.0.21
+- format (origin/master, origin/HEAD)
+- fix descriptions
+
 ### Version 1.0.20
 
 - add gruvbox theme
