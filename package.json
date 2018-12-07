@@ -1,7 +1,7 @@
 {
   "name": "dark-mode-darcula",
-  "displayName": "Dark Mode for Darcula / Gruvbox",
-  "description": "Themes for mac OS in Dark Mode",
+  "displayName": "Dark Mode for mac OS ",
+  "description": "Themes Darcula Gruvbox with Dark Mode bg colors",
   "publisher": "sldobri",
   "version": "1.0.20",
   "license": "Apache-2.0",
